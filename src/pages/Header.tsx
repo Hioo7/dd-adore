@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 
 export default function FloatingHeader() {
-  const phoneNumber = "919876543210";
+  const phoneNumber = "919945466887";
 
   const linkedinUrl = "https://www.linkedin.com/company/d-adore-interiors/";
   const instagramUrl = "https://www.instagram.com/dadore.in/?hl=en";

@@ -16,10 +16,23 @@ export const SecondSection = () => {
             and end-to-end project execution.
           </p>
 
-          <div className="mt-10 flex justify-center md:justify-start">
-            <button className="rounded-xl bg-[#142456] px-8 py-3 text-sm sm:text-base font-semibold text-white transition hover:bg-[#0f1c43] shadow-md hover:shadow-lg">
-              See Our Work
-            </button>
+          <div className="mt-10 flex gap-4 justify-center md:justify-start">
+            <a
+              href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-xl bg-[#142456] px-8 py-3 text-sm sm:text-base font-semibold text-white transition hover:bg-[#0f1c43] shadow-md hover:shadow-lg inline-block text-center"
+            >
+              Residential Projects
+            </a>
+            <a
+              href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1-1"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="rounded-xl bg-[#e0e0e0] px-8 py-3 text-sm sm:text-base font-semibold text-[#142456] transition hover:bg-[#cccccc] shadow-md hover:shadow-lg inline-block text-center"
+            >
+             Commercial Projects
+            </a>
           </div>
         </div>
 
