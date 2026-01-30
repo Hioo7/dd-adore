@@ -15,15 +15,26 @@ export default function Footer() {
              />
         </div>
 
-        {/* Links */}
+        {/* Social Handles Only */}
         <div className="flex flex-col space-y-2">
-          <h2 className="font-semibold">About Us</h2>
-          <h2 className="font-semibold">Our Services</h2>
-          <h2 className="font-semibold">Featured Collection</h2>
           <h2 className="font-semibold">Social Handles</h2>
           <div className="flex space-x-2 mt-1">
-            <FaInstagram className="w-6 h-6 text-gradient" />
-            <FaLinkedin className="w-6 h-6 text-blue-600" />
+            <a
+              href="https://www.instagram.com/dadore.in/?hl=en"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Instagram"
+            >
+              <FaInstagram className="w-6 h-6 text-gradient" />
+            </a>
+            <a
+              href="https://www.linkedin.com/company/d-adore-interiors/"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="LinkedIn"
+            >
+              <FaLinkedin className="w-6 h-6 text-blue-600" />
+            </a>
           </div>
         </div>
 
