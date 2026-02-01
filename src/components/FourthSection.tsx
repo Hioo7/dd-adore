@@ -10,7 +10,7 @@ export const FourthSection = () => {
           </h2>
 
           <button className="rounded-full bg-[#142456] px-4 sm:px-6 py-2 text-xs sm:text-base font-medium text-white transition hover:bg-[#0f1c3d]">
-            Get A Quote
+           <a href="https://docs.google.com/forms/d/e/1FAIpQLSeQQsNSsoaJkijPpBtcbfS2dbJPoTJ87SSU65bfGdtnxO_tHg/viewform"> Get A Quote</a>
           </button>
         </div>
 
@@ -20,65 +20,75 @@ export const FourthSection = () => {
           {/* LEFT COLUMN – 2 BIG IMAGES */}
           <div className="flex flex-col gap-3 sm:gap-4">
 
-            <div className="relative h-55 sm:h-72 lg:h-[23rem] overflow-hidden rounded-xl sm:rounded-2xl">
-              <img
-                src="/imgc.jpeg"
-                className="h-full w-full object-cover"
-                alt="Kitchen Interiors"
-              />
-              {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
-                Kitchen Interiors
-              </span> */}
-            </div>
+            <a href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="relative h-55 sm:h-72 lg:h-[23rem] overflow-hidden rounded-xl sm:rounded-2xl">
+                <img
+                  src="/imgc.jpeg"
+                  className="h-full w-full object-cover"
+                  alt="Kitchen Interiors"
+                />
+              </div>
+            </a>
+            {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
+              Kitchen Interiors
+            </span> */}
 
-            <div className="relative h-55 sm:h-72 lg:h-[23rem] overflow-hidden rounded-xl sm:rounded-2xl">
-              <img
-                src="/heroimg1.png"
-                className="h-full w-full object-cover"
-                alt="Residential Interiors"
-              />
-              {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
-                Residential Interiors
-              </span> */}
-            </div>
+            <a href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="relative h-55 sm:h-72 lg:h-[23rem] overflow-hidden rounded-xl sm:rounded-2xl">
+                <img
+                  src="/heroimg1.png"
+                  className="h-full w-full object-cover"
+                  alt="Residential Interiors"
+                />
+              </div>
+            </a>
+            {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
+              Residential Interiors
+            </span> */}
 
           </div>
 
           {/* RIGHT COLUMN – 3 SMALLER IMAGES */}
           <div className="flex flex-col gap-2 sm:gap-2">
 
-            <div className="relative h-36 sm:h-48 lg:h-66 overflow-hidden rounded-xl sm:rounded-2xl">
-              <img
-                src="/img3.jpeg"
-                className="h-full w-full object-cover"
-                alt="Custom Furniture"
-              />
-              {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
-                Custom Furniture
-              </span> */}
-            </div>
+            <a href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="relative h-36 sm:h-48 lg:h-66 overflow-hidden rounded-xl sm:rounded-2xl">
+                <img
+                  src="/img3.jpeg"
+                  className="h-full w-full object-cover"
+                  alt="Custom Furniture"
+                />
+              </div>
+            </a>
+            {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
+              Custom Furniture
+            </span> */}
 
-            <div className="relative h-36 sm:h-48 lg:h-60 overflow-hidden rounded-xl sm:rounded-2xl">
-              <img
-                src="/img4.jpg"
-                className="h-full w-full object-cover"
-                alt="Commercial Interiors"
-              />
-              {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
-                Commercial Interiors
-              </span> */}
-            </div>
+            <a href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="relative h-36 sm:h-48 lg:h-60 overflow-hidden rounded-xl sm:rounded-2xl">
+                <img
+                  src="/img4.jpg"
+                  className="h-full w-full object-cover"
+                  alt="Commercial Interiors"
+                />
+              </div>
+            </a>
+            {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
+              Commercial Interiors
+            </span> */}
 
-            <div className="relative h-36 sm:h-48 lg:h-60 overflow-hidden rounded-xl sm:rounded-2xl">
-              <img
-                src="/img5.jpg"
-                className="h-full w-full object-cover"
-                alt="Modular Kitchens"
-              />
-              {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
-                Modular Kitchens
-              </span> */}
-            </div>
+            <a href="https://benaksagar.wixsite.com/adore-interiors-llp/projects-1" target="_blank" rel="noopener noreferrer" className="block">
+              <div className="relative h-36 sm:h-48 lg:h-60 overflow-hidden rounded-xl sm:rounded-2xl">
+                <img
+                  src="/img5.jpg"
+                  className="h-full w-full object-cover"
+                  alt="Modular Kitchens"
+                />
+              </div>
+            </a>
+            {/* <span className="absolute bottom-4 left-4 text-white text-sm sm:text-lg font-semibold">
+              Modular Kitchens
+            </span> */}
 
           </div>
 

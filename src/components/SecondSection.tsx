@@ -11,7 +11,7 @@ export const SecondSection = () => {
           </h2>
 
           <p className="mt-6 text-sm sm:text-base lg:text-lg leading-relaxed text-gray-600">
-            Our services cover the full spectrum of interior design — modular
+            Our services cover the full spectrum of interior design modular
             kitchens, wardrobes, 3D visualization, furniture design, lighting,
             and end-to-end project execution.
           </p>

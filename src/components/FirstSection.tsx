@@ -12,7 +12,7 @@ export const FirstSection = () => {
   const [current, setCurrent] = useState(0);
 
   const getAQuote = () => {
-    window.open("https://forms.gle/ApeLX44uxkp4Z8JTA", "_self");
+    window.open("https://docs.google.com/forms/d/e/1FAIpQLSeQQsNSsoaJkijPpBtcbfS2dbJPoTJ87SSU65bfGdtnxO_tHg/viewform", "_self");
   }
   useEffect(() => {
     const interval = setInterval(() => {

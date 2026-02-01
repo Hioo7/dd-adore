@@ -23,7 +23,7 @@ import { useEffect, useRef, useState } from "react";
   },
   {
     name: "Achaiah C S",
-    text: "Getting our wardrobe and TV unit done had become very overwhelming for us. We had no idea where to start, what to choose and how the end product had to be like. We desperately needed someone who could give us some clarity and help us understand how we can go about going through the whole process of getting this done. Sagar from D'adore interiors was exactly what we needed. He was extremely patient with all our doubts and confusions and helped us get to a vision for our requirements. He had a great sense of design and style. Him and his very capable team did a great job for us and all of it was within our little budget. We are really happy with the end result. I highly recommend D'adore interiors."
+    text: "Getting our wardrobe and TV unit done had become very overwhelming for us. We had no idea where to start, what to choose and how the end product had to be like. We desperately needed someone who could give us some clarity and help us understand how we can go about going through the whole process of getting this done. Sagar from D'adore interiors was exactly what we needed. He was extremely patient with all our doubts and confusions and helped us to a vision for our requirements. He had a great sense of design and style. Him and his very capable team did a great job for us and all of it was within our little budget. We are really happy with the end result. I highly recommend D'adore interiors."
   },
   {
     name: "Prashanth Neergundha",
@@ -31,7 +31,7 @@ import { useEffect, useRef, useState } from "react";
   },
   {
     name: "Chirag Turakhia",
-    text: "Sagar and team have done a fantastic job in bringing our dream home to reality. They are easy to work with, prompt in responding to our queries and always try innovative methods to get the job done. They understand quality and make suggestions to ensure the furniture has a long life without hassles. They are honest and transparent in their dealings and I would highly recommend their services to everyone."
+    text: "Sagar and team have done a fantastic job in bringing our dream home to reality. They are easy to work with, prompt in responding to our queries and always try innovative methods to the job done. They understand quality and make suggestions to ensure the furniture has a long life without hassles. They are honest and transparent in their dealings and I would highly recommend their services to everyone."
   },
   {
     name: "Rajeev Ranjan",

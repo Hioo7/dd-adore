@@ -43,7 +43,7 @@ export const FounderNote = () => {
 
 With 12+ years of experience and hundreds of completed projects, Sagar is known for blending aesthetics with functionality. A key milestone in his career is designing the clubhouse at Birla Alokya, the first residential project by Birla Estates.
 
-His hands-on, on-site approach ensures each space is both beautiful and practical. Outside of work, Sagar is a cricketer, traveler, and avid reader — bringing the same passion and precision to all he does.`}
+His hands-on, on-site approach ensures each space is both beautiful and practical. Outside of work, Sagar is a cricketer, traveler, and avid reader bringing the same passion and precision to all he does.`}
             </p>
           </div>
 
